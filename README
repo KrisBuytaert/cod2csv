@@ -1,0 +1,8 @@
+
+Script to export the schedule from a Drupal COD (usecod.com) (D6 instance) 
+to csv so it can be imported in services such as http://joind.in/
+
+
+Needs attention on the \" part .. 
+
+
